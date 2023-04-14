@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iqswitchb2", "iqswitchb2\iqswitchb2.csproj", "{D17302D5-2349-4DC0-A255-034A13BD38BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D17302D5-2349-4DC0-A255-034A13BD38BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D17302D5-2349-4DC0-A255-034A13BD38BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D17302D5-2349-4DC0-A255-034A13BD38BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D17302D5-2349-4DC0-A255-034A13BD38BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EA01773-5B2A-42C2-B65B-3D8D7E7F29D5}
+	EndGlobalSection
+EndGlobal
